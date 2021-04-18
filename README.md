@@ -34,7 +34,3 @@ Hilt is built on top of the popular DI library Dagger to benefit from the compil
 ## Coroutines
 A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
 
-
-
-
-![covid_19_GIF](https://user-images.githubusercontent.com/17107040/115163633-3bf25d80-a0bb-11eb-9df8-d6a7dd3abcd7.gif)
