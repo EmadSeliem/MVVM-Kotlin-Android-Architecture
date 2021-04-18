@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="generic_error">Some thing went wrong , please try again later.</string>
+    <string name="total_cases">TOTAL CASES</string>
+    <string name="total_recovered">TOTAL RECOVERED</string>
+    <string name="total_deaths">TOTAL DEATHS</string>
+    <string name="last_updated">LAST UPDATED</string>
+</resources>
