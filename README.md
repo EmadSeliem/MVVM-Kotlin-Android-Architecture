@@ -4,8 +4,8 @@ MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + LiveData+Data Binding
 ## Getting Started
 In this tutorial, we are going to learn about the MVVM architecture in Android,I created sample projcet for getting COVID19 statistics per country.
 
+<img src="https://user-images.githubusercontent.com/17107040/115163628-3432b900-a0bb-11eb-87ca-ed5f5181faf9.gif" width="400" height="790">
 
-<img src="https://user-images.githubusercontent.com/17107040/115163433-229ce180-a0ba-11eb-9d26-95f14ad3e181.png" width="400" height="790">
 
 ## What is MVVM architecture?
 ( MVVM )architecture is a Model-View-ViewModel architecture that removes the tight coupling between each component. 
@@ -37,3 +37,4 @@ A coroutine is a concurrency design pattern that you can use on Android to simpl
 
 
 
+![covid_19_GIF](https://user-images.githubusercontent.com/17107040/115163633-3bf25d80-a0bb-11eb-9df8-d6a7dd3abcd7.gif)
